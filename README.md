@@ -1,5 +1,5 @@
 # Trabalhando com git e git-flow no dia a dia - (básico)
-Vou assumir que voce já sabe de forma conceitual o que é **git** e **git-flow** e como funciona o processo de versionamento, o intuito aqui é trazer um guia de utilização do git e git-flow para usar no dia a dia, para se familiarizar com os comandos e utilização, versionando  seus códigos e trabalhando com branchs de uma forma mais segura.
+Vou assumir que voce já sabe de forma conceitual o que é **git** e **git-flow** e como funciona o processo de versionamento, o intuito aqui é trazer um guia de utilização para o dia a dia, para se familiarizar com os comandos e utilização, versionando  seus códigos e trabalhando com branchs de uma forma mais segura.
 
 # Iniciando...
 

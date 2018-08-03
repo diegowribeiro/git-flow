@@ -1,5 +1,5 @@
 # Trabalhando com git e git-flow no dia a dia - (básico)
-Olá, estamos compartilhando um guia de utilização do **git** e **git-flow** para usar no dia a dia, para versionar seus códigos e trabalhar com branchs de uma forma mais segura.
+Este é um guia de utilização do **git** e **git-flow** para usar no dia a dia, para versionar seus códigos e trabalhar com branchs de uma forma mais segura.
 
 
 # Iniciando...
